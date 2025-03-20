@@ -4,3 +4,4 @@ ENV ALLOW_EMPTY_PASSWORD=yes
 COPY addressbook.war /opt/bitnami/tomcat/webapps_default/addressbook.war
 
 8888
+788
